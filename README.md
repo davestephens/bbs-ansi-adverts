@@ -7,5 +7,6 @@ users log off of BBS's.
 
 ## How to add an advert
 - Fork
-- Add your advert into the `adverts` ditectory
+- Add your advert into the `adverts` directory
 - Submit a PR
+- Profit!
