@@ -1,0 +1,32 @@
+[
+  {
+    "bbs_name": "fORCE9 BBS",
+    "sysop": "RiPuk",
+    "telnet": "bbs.force9.org",
+    "adverts": ["force9.ans"]
+  },
+  {
+    "bbs_name": "Xibalba",
+    "sysop": "NuSkooler",
+    "telnet": "xibalba.l33t.codes:44510",
+    "adverts": ["xibalba1.ans","xibalba2.ans"]
+  },
+  {
+    "bbs_name": "Exotica",
+    "sysop": "apam",
+    "telnet": "exoticabbs.com:2023",
+    "adverts": ["exotica.ans"]
+  },
+  {
+    "bbs_name": "Troy's Den",
+    "sysop": "Quickshot",
+    "telnet": "troybbs.com",
+    "adverts": ["troysden.ans"]
+  },
+  {
+    "bbs_name": "Twinkle BBS",
+    "sysop": "pequito",
+    "telnet": "twinklebbs.net",
+    "adverts": ["twinkle.ans"]
+  }
+]
