@@ -28,5 +28,11 @@
     "sysop": "pequito",
     "telnet": "twinklebbs.net",
     "adverts": ["twinkle.ans"]
-  }
+  },
+  {
+    "bbs_name": "Deep Space 94",
+    "sysop": "deepthaw",
+    "telnet": "deepspace94.com",
+    "adverts": ["DS94.ANS"]
+   }
 ]
