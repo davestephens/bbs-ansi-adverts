@@ -18,7 +18,7 @@
     "adverts": ["exotica.ans"]
   },
   {
-    "bbs_name": "Troy's Den",
+    "bbs_name": "Troy\'s Den",
     "sysop": "Quickshot",
     "telnet": "troybbs.com",
     "adverts": ["troysden.ans"]
@@ -42,7 +42,7 @@
     "adverts": ["blackflag.ans"]
   },
   {
-    "bbs_name": "Tinys BBS",
+    "bbs_name": "Tiny\'s BBS",
     "sysop": "Tiny",
     "telnet": "tinysbbs.com",
     "adverts": ["tinysbbs.ans"]
