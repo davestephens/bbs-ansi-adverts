@@ -52,5 +52,11 @@
     "sysop": "Avon",
     "telnet": "agency.bbs.geek.nz",
     "adverts": ["agency.ans"]
+  },
+  {
+    "bbs_name": "Fluph",
+    "sysop": "Skuz",
+    "telnet": "fluph.darktech.org",
+    "adverts": ["fluph1.ans","fluph2.ans"]
   }
 ]
