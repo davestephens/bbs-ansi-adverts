@@ -46,5 +46,11 @@
     "sysop": "Tiny",
     "telnet": "tinysbbs.com",
     "adverts": ["tinysbbs.ans"]
+  },
+  {
+    "bbs_name": "Agency BBS",
+    "sysop": "Avon",
+    "telnet": "agency.bbs.geek.nz",
+    "adverts": ["agency.ans"]
   }
 ]
