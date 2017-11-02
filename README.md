@@ -22,7 +22,7 @@ Coming soon :-)
 ## How to add an advert
 - Fork
 - Add your advert into the `adverts` directory - please use a lowercase filename
-- Add the relevant metadata to adverts.json
+- Add the relevant metadata to `adverts/adverts.json`
 - Submit a PR
 - Profit!
 
