@@ -58,5 +58,11 @@
     "sysop": "Skuz",
     "telnet": "fluph.darktech.org",
     "adverts": ["fluph1.ans","fluph2.ans"]
+  },
+  {
+    "bbs_name": "Another Droid",
+    "sysop": "xqtr",
+    "telnet": "andr01d.zapto.org:9999",
+    "adverts": ["anotherdroid.ans"]
   }
 ]
