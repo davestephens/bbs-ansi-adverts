@@ -5,7 +5,7 @@
 # -----------------------------------------------------------
 # Usage > .\MoveWin.ps1 -BBSType 1 -OutputDir D:\MyBBSFolder\Art -NumAds 5 -Overwrite
 # -------------------------------------------------------------------------------------------------------------
-# --------- OPTIONS --------------------------
+# ---------- OPTIONS ------------------------------------------------------------------------------------------
 # BBSType   (Optional)  - BBSType for Naming Conventions 1:EngimaBBS, 2:Mystic, 3:Other" Default Engima
 # OutputDir (Mandatory) - Full Path - Use Quotes if there is a space
 # NumAds    (Optional)  - Number of randomly selected ads. 0 or larger then the ads will just get all of them.
