@@ -30,7 +30,6 @@ Example:
 - Profit!
 
 ## TODO (help gratefully received!)
-- Write a Windows advert set generator in PowerShell
 - Write native plugins for popular BBS software 
 - Write a BBS checker to remove dead BBS's
 ````
