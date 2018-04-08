@@ -17,7 +17,10 @@ Example:
 feel free to submit a PR if you want your BBS software supported!
 
 ### Windows
-Coming soon :-)
+Example:
+````
+.\tools\make_set.ps1 -BBSType 1 -OutputDir D:\MyBBSFolder\Art -NumAds 5 -Overwrite
+````
 
 ## How to add an advert
 - Fork
@@ -30,3 +33,4 @@ Coming soon :-)
 - Write a Windows advert set generator in PowerShell
 - Write native plugins for popular BBS software 
 - Write a BBS checker to remove dead BBS's
+````
