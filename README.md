@@ -19,7 +19,7 @@ feel free to submit a PR if you want your BBS software supported!
 ### Windows
 Example:
 ````
-.\MoveWin.ps1 -BBSType 1 -OutputDir D:\MyBBSFolder\Art -NumAds 5 -Overwrite
+.\tools\make_set.ps1 -BBSType 1 -OutputDir D:\MyBBSFolder\Art -NumAds 5 -Overwrite
 ````
 
 ## How to add an advert
