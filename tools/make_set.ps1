@@ -19,7 +19,6 @@ param (
     [switch]$Overwrite = $false # Overwrite existing files
 )
 
-if (-not($BBSType)) { Throw "You must supply a value for -BBSType. 1:EngimaBBS, 2:Mystic, 3:Other" }
 $Ads = Get-ChildItem -File -Filter '*.ans' -Path '..\adverts\' -Recurse
 $MaxIndex = $Ads.Count - 1
 $SelectedAds = @()
