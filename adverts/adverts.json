@@ -12,10 +12,10 @@
     "adverts": ["xibalba1.ans","xibalba2.ans"]
   },
   {
-    "bbs_name": "Exotica",
+    "bbs_name": "The Fat Sandwich",
     "sysop": "apam",
-    "telnet": "exoticabbs.com:2023",
-    "adverts": ["exotica.ans"]
+    "telnet": "sandwich.magickabbs.com:2023",
+    "adverts": ["sandwich.ans"]
   },
   {
     "bbs_name": "Troys Den",
