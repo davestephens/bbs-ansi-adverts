@@ -64,5 +64,11 @@
     "sysop": "xqtr",
     "telnet": "andr01d.zapto.org:9999",
     "adverts": ["anotherdroid.ans"]
+  },
+  {
+    "bbs_name": "thE qUAntUm wOrmhOlE",
+    "sysop": "MeaTLoTioN",
+    "telnet": "bbs.erb.pw",
+    "adverts": ["tqw_ad.ans"]
   }
 ]
