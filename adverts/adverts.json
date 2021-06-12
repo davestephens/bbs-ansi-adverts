@@ -71,4 +71,10 @@
     "telnet": "bbs.erb.pw",
     "adverts": ["tqw_ad.ans"]
   }
+    {
+    "bbs_name": "Al's Geek Lab",
+    "sysop": "hyjinx",
+    "telnet": "bbs.alsgeeklab.com:2323",
+    "adverts": ["alsgeeklab_ad.ans"]
+  }
 ]
