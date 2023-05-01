@@ -42,7 +42,7 @@ foreach ($Ad in $SelectedAds) {
     $filename = "default.ans"
     switch ( $BBSType ) {
         1 { $filename = "othrbbs$ADN.ans" } #Enigma
-        2 { $filename = "logoff.an$ADN"   } #Mystic
+        2 { $filename = "logoff.$ADN.ans"   } #Mystic
         3 { $filename = "bbsad$ADN.ans"   } #Other
      
     }
