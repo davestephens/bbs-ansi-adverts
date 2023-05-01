@@ -32,7 +32,7 @@ for file in ../adverts/*.ans; do
             NEWNAME=othrbbs$AD_NUM.ans
         ;;
         mystic)
-            NEWNAME=logoff.an$AD_NUM
+            NEWNAME=logoff.$AD_NUM.ans
         ;;
         *)
             NEWNAME=bbsad$AD_NUM.ans
